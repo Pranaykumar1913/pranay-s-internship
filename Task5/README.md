@@ -1,0 +1,8 @@
+-> In today's task 5 the goal of todays task is to "extract insights" through "visuals" and "statistics" exploration. This involves understanding structure of the data, identifying trends, patterns anomalies and summarizing the findings with the help of Python and Python libraries like pandas for data manipulation, matplotlib for data visualization, seabron for advanced statistical plotting
+-> In the first step is need to download a sales dataset from kaggle.com
+-> when dataset is successfully downloaded then import it into IDE using pandas "df = pd.read_csv("C:\\Users\\Pranai Kumar\\Downloads\\Sales Dataset.csv")"
+-> after loading dataset display first five rows using ".head()"
+-> check the datatypes and structure of data use ".info()"
+-> now get statistical summary use ".describe()"
+-> then next check for missing and duplicate values
+-> after successfully doing those steps plot the graphs "histograms", "scatterplot", "pairplot", "heatmaps" for the visualising the dataset.
